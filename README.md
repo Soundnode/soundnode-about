@@ -1,4 +1,1 @@
-soundnode-about
-===============
-
-About Soundnode App
+Content hosted on Github repository
