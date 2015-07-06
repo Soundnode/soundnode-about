@@ -1,0 +1,5 @@
+<h2>Soundclouod rate limit reached.</h2
+
+<p>Sorry for the inconvenience but recently Soundcloud add a limit of 15k plays for third party Apps using their API.</p>
+<p>We will be able to play songs agian in 24hs (or less if the limit was reached today while ago)</p>
+<p>For more information https://developers.soundcloud.com/docs/api/rate-limits</p>
